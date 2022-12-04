@@ -48,3 +48,17 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 ## Social Web
+- common: core, helper, ...
+- rieng: feature
+- component: pagination, ... (dung chung)
+- store: redux - logic (reducer, action, ...)
+- service: api be
+- style: css
+- page: hien thi man hinh
+    + Admin
+    + Account : Login, Forget Password, register, ...
+
+- file.ts => tra ve thuan code ts
+- file.tsx => tra ve ca <html>
+
+- App.js - entry point
